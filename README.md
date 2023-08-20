@@ -72,8 +72,11 @@ To control home devices using Blynk IoT app through Blynk Cloud Server.
 - Create template as ‘Home Automation’.
 - Add new device.
 - We must remember to copy Template ID, Device Name and Authentication Token. (Important step)
+  ![App Screenshot](./imgs/blynk1.png)
 - Add Datastreams
+   ![App Screenshot](./imgs/blynk2.png)
 - Setup the widgets required in Mobile Phone and hence we are ready to control the device.
+   ![App Screenshot](./imgs/blynk3.png)
 
 
 ## Steps in Arduino IDE
@@ -83,10 +86,11 @@ To control home devices using Blynk IoT app through Blynk Cloud Server.
 - Compile
 - Export the compiled Binary.
 - Load the HEX file in PICSimlab Simulator.
+   ![App Screenshot](./imgs/ard1.png)
 
 
 
 ## Screenshot of Output
-
+ ![App Screenshot](./imgs/ard2.png)
 ![App Screenshot](./imgs/finalop.png)
 
