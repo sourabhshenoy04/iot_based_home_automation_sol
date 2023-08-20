@@ -22,8 +22,9 @@ To control home devices using Blynk IoT app through Blynk Cloud Server.
 - Blynk Application (both Mobile and Web version)
  Active internet connection is also required.
 
-
-
+**Languages Used:**
+- Embedded C/C++
+  
 ## Project Requirements
 
 - Garden Light Control:- It is based on LDR sensor. Here during day time lights must be OFF and during night time lights must be ON.
@@ -91,6 +92,6 @@ To control home devices using Blynk IoT app through Blynk Cloud Server.
 
 
 ## Screenshot of Output
- ![App Screenshot](./imgs/ard2.png)
+ ![App Screenshot](./imgs/aed2.png)
 ![App Screenshot](./imgs/finalop.png)
 
