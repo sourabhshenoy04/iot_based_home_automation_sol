@@ -89,7 +89,7 @@ To control home devices using Blynk IoT app through Blynk Cloud Server.
 - Load the HEX file in PICSimlab Simulator.
    ![App Screenshot](./imgs/ard1.png)
 ## Complete Demonstration available at: 
-- YouTube video: youtu.be/JTmT7ICp2aE
+- YouTube video: https://www.youtube.com/watch?v=JTmT7ICp2aE&ab_channel=SourabhShenoy
 
 ## Screenshot of Output
  ![App Screenshot](./imgs/aed2.png)
