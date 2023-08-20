@@ -88,5 +88,5 @@ To control home devices using Blynk IoT app through Blynk Cloud Server.
 
 ## Screenshot of Output
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./imgs/finalop.png)
 
