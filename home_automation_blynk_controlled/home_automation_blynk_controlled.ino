@@ -3,10 +3,10 @@ Title         :   Home automation using blynk
 Description   :   To control light's brigntness with brightness,monitor temperature , monitor water level in the tank through blynk app
 Pheripherals  :   Arduino UNO , Temperature system, LED, LDR module, Serial Tank, Blynk cloud, Blynk App.
  *************************************************************/
-
-#define BLYNK_TEMPLATE_ID "TMPLf8hpVtV8"
-#define BLYNK_DEVICE_NAME "Home Automation"
-#define BLYNK_AUTH_TOKEN "xHWOQP0bZK4clKM37USD2m6iw1rU7o3y"
+// replace with your ID, NAME, TOKEN respectively
+#define BLYNK_TEMPLATE_ID " "
+#define BLYNK_DEVICE_NAME " "
+#define BLYNK_AUTH_TOKEN " "
 
 
 // Comment this out to disable prints 
