@@ -271,5 +271,6 @@ Overall, this solution provided energy-efficient and convenient control of house
 
 ## Screenshot of Output:
  ![App Screenshot](./imgs/aed2.png)
+ <br>
 ![App Screenshot](./imgs/finalop.png)
 
