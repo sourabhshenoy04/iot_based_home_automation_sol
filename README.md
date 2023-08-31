@@ -24,7 +24,10 @@ To control home devices using Blynk IoT app through Blynk Cloud Server.
 
 **Languages Used:**
 - Embedded C/C++
-  
+## About: 
+- This project involves an IoT based home automation solution using a combination of Blynk IoT app, Picsimlab and Arduino IDE. The main objective was to provide remote control of garden lights, temperature, and water tank from a single platform. Garden lights were controlled using a light sensor, temperature control using a temperature sensor, and water tank control using a water level sensor. The Blynk IoT app provided a user-friendly interface to monitor and control the system from a smartphone. The Picsimlab was used as simulation software . 
+Overall, this solution provided energy-efficient and convenient control of household features while promoting a comfortable living environment.
+
 ## Project Requirements:
 
 - Garden Light Control:- It is based on LDR sensor. Here during day time lights must be OFF and during night time lights must be ON.
