@@ -3,7 +3,7 @@
 ## Problem Statement:
 To control home devices using Blynk IoT app through Blynk Cloud Server.
 
-## Tech Stack:
+## 🛠 Tech Stack:
 
 **Hardware used in PICSim Lab Emulator:**
 - LDR Sensor
